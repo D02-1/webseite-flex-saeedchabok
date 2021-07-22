@@ -105,16 +105,12 @@ footer ul li i
         display: flex;
         flex-wrap: wrap;
     }
+    .last-image
+    {
+       display: none;
+    }
     .box
     {
-        flex-grow: 10;
-
-    }
+        flex-basis:600px ;
+    }  
 }
-/* @media (min-width:1025px)
-{
-    body 
-    {
-        display: none;
-    }
-}  */
